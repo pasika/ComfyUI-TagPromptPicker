@@ -1,5 +1,5 @@
 # ComfyUI-TagPromptPicker
-
+![image](https://github.com/pasika/ComfyUI-TagPromptPicker/blob/main/how_to_use.jpg)
 [English](#english) | [中文](#中文)
 
 ---
